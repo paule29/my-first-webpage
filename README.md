@@ -15,3 +15,5 @@
     - Repérer "Integrated > Automation Shell: Windows", et cliquer sur "Edit in settings.json"
     - Coller la ligne suivante à la place du contenu de settings.json :
     >{"terminal.integrated.shell.windows": "C:\\laragon\\bin\\git\\bin\\bash.exe"}
+
+## Lier Git et GitHub dans Git Bash
